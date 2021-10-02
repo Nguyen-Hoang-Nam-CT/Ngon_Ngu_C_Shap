@@ -1,0 +1,7 @@
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\Bai_Tap_Code\Thuc_Hanh\B1\Buoi1\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\Bai_Tap_Code\Thuc_Hanh\B1\Buoi1\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\Bai_Tap_Code\Thuc_Hanh\B1\Buoi1\Bai5\bin\Debug\Bai5.exe.config
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\Bai_Tap_Code\Thuc_Hanh\B1\Buoi1\Bai5\bin\Debug\Bai5.exe
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\Bai_Tap_Code\Thuc_Hanh\B1\Buoi1\Bai5\bin\Debug\Bai5.pdb
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\Bai_Tap_Code\Thuc_Hanh\B1\Buoi1\Bai5\obj\Debug\Bai5.exe
+E:\1_May_Tinh\5_Mon_Hoc_Ki_5\1_Cac_Mon_Lap_Trinh_Huong_Doi_Tuong\2_Lap_Trinh_chamNet\Bai_Tap_Code\Thuc_Hanh\B1\Buoi1\Bai5\obj\Debug\Bai5.pdb

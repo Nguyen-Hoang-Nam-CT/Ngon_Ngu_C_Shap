@@ -4,6 +4,19 @@ namespace Bai1
 {
     class Program
     {
+        public static int input()
+        {
+            return int.Parse(Console.ReadLine());
+        }
+        public static void nhapSoNguyenDuong(out int n)
+        {
+            do
+            {
+                n = input();
+                if (n < 0)
+                    Console.Write("\nNhập lại: ");
+            } while (n < 0);
+        }
         public static int findMax(int a, int b, int c)
         {
             int max = a > b ? a : b;
@@ -13,29 +26,12 @@ namespace Bai1
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             int a, b, c;
-            System.Console.Write("\nNhập a: ");
-            do
-            {
-                a = int.Parse(Console.ReadLine());
-                if (a < 0)
-                    System.Console.Write("\nNhập lại a: ");
-            } while (a < 0);
-            
-            System.Console.Write("\nNhập b: ");
-            do
-            {
-                b = int.Parse(Console.ReadLine());
-                if (b < 0)
-                    System.Console.Write("\nNhập lai b: ");
-            } while (b < 0);
-            
-            System.Console.Write("\nNhập c: ");
-            do
-            {
-                c = int.Parse(Console.ReadLine());
-                if (c < 0)
-                    System.Console.Write("\nNhập lại c: ");
-            } while (c < 0);
+            Console.Write("\nNhập a: ");
+            nhapSoNguyenDuong(out a);
+            Console.Write("\nNhập b: ");
+            nhapSoNguyenDuong(out b);
+            Console.Write("\nNhập c: ");
+            nhapSoNguyenDuong(out c);
 
             Console.Write("\nSố lớn nhất là: " + Program.findMax(a, b, c));
 
